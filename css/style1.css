@@ -93,7 +93,7 @@ body {
     padding-right: 14px;
     font-size:14px;
     font-weight:bold;
-    cursor: pointer;
+    cursor: pointer !important;
 }
 .small-card{
     position: absolute;
